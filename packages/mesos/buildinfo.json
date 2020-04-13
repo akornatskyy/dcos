@@ -15,9 +15,9 @@
     },
     "mesos-modules": {
       "kind": "git",
-      "git": "https://github.com/dcos/dcos-mesos-modules.git",
-      "ref": "4ba1e573ec4a80ec1d5514d54d5cc9529e5e1d98",
-      "ref_origin": "master"
+      "git": "git@github.com:akornatskyy/dcos-mesos-modules.git",
+      "ref": "ae6d2d36ce170a640976a3c8157bf8bbca34fcee",
+      "ref_origin": "cmake"
     }
   },
   "environment": {
